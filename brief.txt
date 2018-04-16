@@ -1,0 +1,11 @@
+bluegroundInterviewChallenge
+Dimitris Douskas
+16/04/2018
+
+My approach to this architecture is like MVC in C#.NET that I have been working the last 2 years. 
+I try to built function as generic as possible. Although, there is a lot of fixes that can be done as always.
+You could see the history and the metrics for any date you want givven that as an argument with the default date to be the one that asked.
+The program now is showing results for New York City but the function accept the city as parameter.
+Also, I have not check or handle any error and focus on what asked by the challenge.
+
+The application built in Eclipse on MAC OS.

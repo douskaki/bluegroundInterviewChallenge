@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="bluegroundInterviewChallenge/src"/>
+	<classpathentry kind="lib" path="bluegroundInterviewChallenge/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="bluegroundInterviewChallenge/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="bluegroundInterviewChallenge/libs/fluent-hc-4.5.5.jar"/>
+	<classpathentry kind="lib" path="bluegroundInterviewChallenge/libs/gson-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="bluegroundInterviewChallenge/libs/gson-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="bluegroundInterviewChallenge/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="bluegroundInterviewChallenge/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="bluegroundInterviewChallenge/libs/httpclient-cache-4.5.5.jar"/>
+	<classpathentry kind="lib" path="bluegroundInterviewChallenge/libs/httpclient-win-4.5.5.jar"/>
+	<classpathentry kind="lib" path="bluegroundInterviewChallenge/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="bluegroundInterviewChallenge/libs/httpmime-4.5.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
