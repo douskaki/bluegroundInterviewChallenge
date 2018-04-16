@@ -1,0 +1,38 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "almanac": 1
+  }
+	}
+		,
+	"almanac": {
+		"airport_code": "KSFO",
+		"temp_high": {
+		"normal": {
+		"F": "64",
+		"C": "18"
+		}
+		,
+		"record": {
+		"F": "84",
+		"C": "28"
+		},
+		"recordyear": "1988"
+		},
+		"temp_low": {
+		"normal": {
+		"F": "49",
+		"C": "9"
+		}
+		,
+		"record": {
+		"F": "38",
+		"C": "3"
+		},
+		"recordyear": "1967"
+		}
+	}
+}
